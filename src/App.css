@@ -1,0 +1,36 @@
+.row{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+    padding-bottom: 0px;
+    margin: 70px;
+}
+
+.row1{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+ 
+
+}
+
+button {
+    background-color: orange;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: xx-large;
+}
+
+h1{
+    justify-content: center;
+    margin-left: 40px;
+    color:blue;
+}
+.number{
+    color:blue;
+    font-size:xx-large;
+}
